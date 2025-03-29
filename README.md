@@ -11,7 +11,7 @@ Software Engineer working on Windows 11 and the Windows Copilot Runtime at ![Mic
 
 Co-founder of [![Guadalahacks](logos/guadalahacks.png) Guadalahacks](https://guadalahacks.com), the largest student hackathon in western Mexico.
 
-Previously interned at ![Microsoft](logos/msft.png) Microsoft implementing Windows notifications features, at ![Intel](logos/intel.png) Intel automating deployment and silicon validation, and at ![Easytrack](logos/easytrack.png) Easytrack building IoT data pipelines.
+Previously interned at ![Microsoft](logos/msft.png) Microsoft (Windows Notifications), ![Intel](logos/intel.png) Intel (DevOps), and ![Easytrack](logos/easytrack.png) Easytrack (IoT data pipelines).
 
 Two-time ![Major League Hacking](logos/mlh.png) Major League Hacking Fellow in production engineering and contributing to ![Meta](logos/meta.png) Meta's [seamless_communication](https://github.com/facebookresearch/seamless_communication).
 
