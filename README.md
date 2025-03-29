@@ -15,4 +15,4 @@ Previously interned at ![Microsoft](logos/msft.png) Microsoft (Windows Notificat
 
 Two-time ![Major League Hacking](logos/mlh.png) Major League Hacking Fellow in production engineering and contributing to ![Meta](logos/meta.png) Meta's [seamless_communication](https://github.com/facebookresearch/seamless_communication).
 
-Research Assistant at ![Tec de Monterrey](logos/tec.png) Tec de Monterrey using natural language processing to identify strategies to reduce [school dropout in Jalisco](https://fairlac.iadb.org/en/piloto/abandono-escolar-jalisco).
+Research Assistant at ![Tec de Monterrey](logos/tec.png) Tec de Monterrey using natural language processing to analyze [school dropout in Jalisco](https://fairlac.iadb.org/en/piloto/abandono-escolar-jalisco).
