@@ -3,11 +3,11 @@
 [![Let's Connect](https://shields.io/badge/let's%20connect!-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/hanrodz/)
 [![han@gonzalpi.com](https://shields.io/badge/%F0%9F%93%AC%20hi@hanrodz.com-beige?style=for-the-badge)](mailto:hi@hanrodz.com)
 
-My name is Han. I'm a software engineer from 9 to 5 and an amateur pianist in the evenings.
+My name is Han. I'm a software engineer.
 
 ## Experience
 
-Software Engineer working on AI at ![Microsoft](logos/msft.png) Microsoft.
+Software Engineer working on Windows 11 and the Windows Copilot Runtime at ![Microsoft](logos/msft.png) Microsoft.
 
 Co-founder of [![Guadalahacks](logos/guadalahacks.png) Guadalahacks](https://guadalahacks.com), the largest student hackathon in western Mexico.
 
