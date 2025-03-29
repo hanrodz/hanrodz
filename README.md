@@ -11,8 +11,8 @@ Software Engineer working on Windows 11 and the Windows Copilot Runtime at ![Mic
 
 Co-founder of [![Guadalahacks](logos/guadalahacks.png) Guadalahacks](https://guadalahacks.com), the largest student hackathon in western Mexico.
 
-Software Engineer Intern building Windows 11 at ![Microsoft](logos/msft.png) Microsoft, improving DevOps tools at ![Intel](logos/intel.png) Intel, and designing cloud architectures at ![Easytrack](logos/easytrack.png) Easytrack.
+Previously interned at ![Microsoft](logos/msft.png) Microsoft implementing Windows notifications features, at ![Intel](logos/intel.png) Intel automating deployment and silicon validation, and at ![Easytrack](logos/easytrack.png) Easytrack building IoT data pipelines.
 
-Two-time ![Major League Hacking](logos/mlh.png) Major League Hacking Fellow learning production engineering and contributing to ![Meta](logos/meta.png) Meta's [Seamless Communication library](https://github.com/facebookresearch/seamless_communication).
+Two-time ![Major League Hacking](logos/mlh.png) Major League Hacking Fellow in production engineering and contributing to ![Meta](logos/meta.png) Meta's [seamless_communication](https://github.com/facebookresearch/seamless_communication).
 
-Research Assistant implementing AI/NLP algorithms at ![Tec de Monterrey](logos/tec.png) Tec de Monterrey's [school dropout program](https://fairlac.iadb.org/en/piloto/abandono-escolar-jalisco).
+Research Assistant at ![Tec de Monterrey](logos/tec.png) Tec de Monterrey using natural language processing to identify strategies to reduce [school dropout in Jalisco](https://fairlac.iadb.org/en/piloto/abandono-escolar-jalisco).
